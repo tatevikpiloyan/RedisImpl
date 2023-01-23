@@ -1,8 +1,8 @@
 #include <iostream>
 #include <algorithm>
 
-#include "redis.h"
-#include "parser.h"
+#include "headerFiles/redis.h"
+#include "headerFiles/parser.h"
 
 Redis::Redis()
 {
